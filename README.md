@@ -41,9 +41,7 @@ Create a database called “osTicket”
 
 <![Screenshot 2025-02-20 142009](https://github.com/user-attachments/assets/1e0be575-cfc7-4331-a880-67dd5b951fa0)
 
-<p>![Screenshot 2025-02-20 142009](https://github.com/user-attachments/assets/7d14cc14-a85b-4597-9af8-5a2dd9fae2a5)
-
-This first step is the step that begins the entire lab! I use Microsoft Azure to be able to do this lab without dirtying up my physical computer. As shown in the picture I am creating a virtual machine that I will later take the public IP address from, to then connect through remote desk top.
+This first step is the step that begins the entire lab! I use Microsoft Azure to be able to do this lab without dirtying up my physical computer. As shown in the picture I am creating a virtual machine that I will later take the public IP address from, to then connect through remote desktop. As listed in the steps I begin with creating this virtul machine, in order to do this I selected "Windows 10" and accommodated it with 4 vCPU's.
 </p>
 <br />
 
