@@ -46,10 +46,12 @@ This first step is the step that begins the entire lab! I use Microsoft Azure to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+![Screenshot 2025-02-20 181008](https://github.com/user-attachments/assets/1f2031c9-7006-4ef0-8970-cc88d6b2d542)
+![Screenshot 2025-02-20 183300](https://github.com/user-attachments/assets/30f208dd-beb4-4733-91c0-e93a789e61fa)
+
+This is now the unzipping proccess where I first download files within the virtual machine then open up my file explorer, I then go to my download tab and drag the file that I just downloaded onto the desktop. This is the "unzipping" process. Once downloaded I then right click the file thats presented on my desktop and select "extract all". After extracting the files I then go into them and enable IIS as well as PHP.
 </p>
 <br />
 
