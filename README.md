@@ -39,12 +39,13 @@ Create a database called “osTicket”
 
 <h2>Installation Steps</h2>
 
-<p>
+<![Screenshot 2025-02-20 142009](https://github.com/user-attachments/assets/1e0be575-cfc7-4331-a880-67dd5b951fa0)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>![Screenshot 2025-02-20 142009](https://github.com/user-attachments/assets/7d14cc14-a85b-4597-9af8-5a2dd9fae2a5)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This first step is the step that begins the entire lab! I use Microsoft Azure to be able to do this lab without dirtying up my physical computer. As shown in the picture I am creating a virtual machine that I will later take the public IP address to then connect through remote desk top.
 </p>
 <br />
 
