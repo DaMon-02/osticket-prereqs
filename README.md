@@ -23,9 +23,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Set up virtual machine with azure, run Windows 10 with at least 4vCPU's
-- Use remote desktop to download OsTicketing System within your virtual machine
-- Item 3
-- Item 4
+- Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop
+- Enable IIS in Windows WITH CGI
+World Wide Web Services -> Application Development Features -> [X] CGI
+- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi),
+From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+Create the directory C:\PHP
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+
 - Item 5
 
 <h2>Installation Steps</h2>
