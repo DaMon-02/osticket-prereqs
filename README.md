@@ -51,7 +51,7 @@ This first step is the step that begins the entire lab! I use Microsoft Azure to
 ![Screenshot 2025-02-20 181008](https://github.com/user-attachments/assets/1f2031c9-7006-4ef0-8970-cc88d6b2d542)
 ![Screenshot 2025-02-20 183300](https://github.com/user-attachments/assets/30f208dd-beb4-4733-91c0-e93a789e61fa)
 
-This is now the unzipping proccess where I first download files within the virtual machine then open up my file explorer, I then go to my download tab and drag the file that I just downloaded onto the desktop. This is the "unzipping" process. Once downloaded I then right click the file thats presented on my desktop and select "extract all". After extracting the files I then go into them and enable IIS as well as PHP.
+This is now the unzipping proccess where I first download files within the virtual machine then open up my file explorer, I then go to my download tab and drag the file that I just downloaded onto the desktop. This is the "unzipping" process. Once downloaded I then right click the file thats presented on my desktop and select "extract all". After extracting the files I then go into them and enable IIS as well as PHP. Doing this will allow me to operate the OsTicketing system.
 </p>
 <br />
 
