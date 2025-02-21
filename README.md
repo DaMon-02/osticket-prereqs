@@ -56,9 +56,11 @@ This is now the unzipping proccess where I first download files within the virtu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![Screenshot 2025-02-21 124318](https://github.com/user-attachments/assets/2fa48d3c-ee5b-4838-a9f1-fa995277c634)
+
+![Screenshot 2025-02-21 125208](https://github.com/user-attachments/assets/a2675cca-1562-4f7f-aeb0-9a6495ec93da)
+
+Now you've downloaded your OsTicketing System database.
 </p>
 <br />
